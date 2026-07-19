@@ -151,3 +151,71 @@
 </a>
 
 </div>
+
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🔥 Request Throttling Manager | Rate Limiting System using Token Bucket Algorithm | Node.js, Express, MongoDB, Redis |
+| 💰 Expense Tracker | Track Income & Expenses with Dashboard | HTML, CSS, JavaScript |
+| ✂ URL Shortener | Generate Short URLs with Analytics | Node.js, MongoDB |
+| 🤖 AI Assistant | Voice Controlled Desktop Assistant | Python |
+| ♟ Chess Game | Interactive Chess Game | HTML, CSS, JavaScript |
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Solve 500+ LeetCode Problems
+- ✅ 5★ on GeeksforGeeks
+- ✅ Master Java + Spring Boot
+- ✅ Learn System Design
+- ✅ Build 10+ Full Stack Projects
+- ✅ Contribute to Open Source
+- ✅ Crack a Product-Based Company
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/manvendersingh0702-design/manvendersingh0702-design/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 💬 Developer Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+```text
+while(!(success)){
+      Learn();
+      Practice();
+      Improve();
+}
+```
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5FF,100:0077FF&section=footer"/>
+
+</div>
+
