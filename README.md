@@ -46,7 +46,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="manvendersingh0702@gamil.com">
+<a href="manvendersingh0702@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
