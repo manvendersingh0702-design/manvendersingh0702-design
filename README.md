@@ -1,16 +1,153 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**manvendersingh0702-design/manvendersingh0702-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Manvender Singh
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Java+Developer;Full+Stack+Web+Developer;DSA+Enthusiast;Spring+Boot+Learner;Open+Source+Contributor;Always+Learning+New+Things"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+
+<img src="https://komarev.com/ghpvc/?username=manvendersingh0702-design&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/manvendersingh0702-design?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/manvendersingh0702-design?style=for-the-badge"/>
+
+</p>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 B.Tech CSE Student
+
+💻 Passionate Java Developer
+
+🌐 Full Stack Web Developer
+
+📚 DSA Enthusiast
+
+🚀 Interested in Backend Development & Open Source
+
+🎯 Goal: Crack a Product-Based Company
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/manvendersingh0702-design">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manvender-singh-390076298">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="manvendersingh0702@gamil.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/Manvender_Singh_07/">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="48"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/codingplabqil">
+<img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="48"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,html,css,js,react,nodejs,express,mongodb,mysql,git,github,docker,linux,vscode"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+✔ Java DSA
+
+✔ Spring Boot
+
+✔ REST APIs
+
+✔ MongoDB
+
+✔ Docker
+
+✔ System Design
+
+✔ Backend Development
+
+✔ Open Source
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=manvendersingh0702-design&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manvendersingh0702-design&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendersingh0702-design&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manvendersingh0702-design&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manvendersingh0702-design&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧠 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Manvender_Singh_07?theme=dark&font=Karma&ext=contest"/>
+
+</div>
+
+---
+
+# 🌿 GeeksforGeeks
+
+<div align="center">
+
+<a href="https://www.geeksforgeeks.org/profile/codingplabqil">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Visit_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
